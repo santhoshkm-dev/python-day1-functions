@@ -1,7 +1,7 @@
-# python-day1-functions
+# python-on_the_go-functions
 It is an practised code, it was checked.
 
-# Python Day 1 - Functions Practice
+# def()  Python - Functions Practice
 
 ## Programs:
 - Addition of 3 numbers

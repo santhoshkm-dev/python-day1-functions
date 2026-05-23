@@ -1,11 +1,11 @@
 # python-on_the_go-functions
-Python Day 1 - Functions Practice
+Python part 1 - Functions Practice
 
 - Implemented basic functions in Python
 - Covered addition, even/odd logic, and square function
 - Focused on parameters, return values, and clean coding
 
-# Python Day 1 - Functions
+# Python part 2 - Functions
 
 ## Overview
 This repository contains basic Python function programs.
